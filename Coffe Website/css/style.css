@@ -45,7 +45,7 @@ html{
 }
 
 /*Font sizes For Small Screen 968px */
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 995px) {
 :root {
   --big-font: 3.5rem;
   --h1-font: 2.4rem;
