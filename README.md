@@ -1,5 +1,5 @@
 # projet_git
-Ce projet a avant tout pour but de réaliser la commande du client, propriétaire du "Coffee". Les features demandées et réalisées ont été les suivantes :
+Ce projet a avant tout pour but de réaliser la commande du client, propriétaire du "Coffee". Les features demandées et réalisées ont été les suivantes: 
 
 Site en one-page
 Page épurée avec le design et le code couleur du restaurant café
