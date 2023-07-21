@@ -1,0 +1,16 @@
+Fichiers et dossiers générés automatiquement
+.github/
+.DS_Store
+.eslintrc.json
+README.md
+package-lock.json
+package.json
+
+Fichiers spécifiques au développement du site web
+index.html
+js/script.js
+js/scrollreveal.js
+js/swiper-bundle.min.js
+css/style.css
+css/swiper-bundle.min
+images
